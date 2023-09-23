@@ -1,5 +1,4 @@
 Use pizza_runner;
--- A. Pizza Metrics
 
 /* How many pizzas were ordered? */
 select
